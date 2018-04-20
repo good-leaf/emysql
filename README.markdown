@@ -1,4 +1,4 @@
-## Usage
+## Usage  引用项目“https://github.com/jkvor/emysql.git”，调整认证逻辑
 
 ### Start the application
 
